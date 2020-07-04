@@ -1,0 +1,12 @@
+{
+  "projectPath":"/Users/md/Desktop/work/redhorn-react/src/",
+  "container" : "containers/",
+  "formAlias":"game",
+  "basePath":"Request",
+  "action":[
+    "request","response", "error", "cleanup"
+  ],
+  "formStruct":["breadcrumb","pageHead","formBody"],
+  "props": ["loading","error"]
+
+}
