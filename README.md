@@ -1,6 +1,6 @@
 # reactCodeGenerater 
 
-this project helps speed up the react development for redhorn-react project 
+this project helps speed up the react development
 the code generator action , config, constants, index , reducers, selectors, css files for each container
 the code is structured in a class for generating the files and some help function for generating blocks of code ,functions ,  
 ## get started
@@ -32,5 +32,5 @@ after cloning you can simply run
 ```
 python3 firstTry.py 
 ```
-don't forget updating projectPath to your local redhorn-react project
+don't forget updating projectPath to your local react project
 
